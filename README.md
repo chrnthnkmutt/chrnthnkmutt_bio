@@ -1,6 +1,6 @@
 # Link-In-Bio
 
-This repository is used to create a custom Link-In-Bio web page.
+This repository is used to create a custom Link-In-Bio web page, along with being the demonstration of Microsoft Seasons of AI: Copilots at Microsoft Thailand.
 
 ## Description
 
